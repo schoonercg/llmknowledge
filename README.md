@@ -1,4 +1,4 @@
-# NetRun Systems LLM Knowledge Base
+# Netrun Systems LLM Knowledge Base
 
 ## Overview
 
@@ -90,7 +90,7 @@ These knowledge entries are designed to be integrated into LLM systems as refere
 
 To contribute to this knowledge base:
 
-1. Follow the NetRun Systems file naming convention: `NEXUS_[FEATURE]_DOC_[VERSION].md`
+1. Follow the Netrun Systems file naming convention: `NEXUS_[FEATURE]_DOC_[VERSION].md`
 2. Use the established knowledge entry structure for consistency
 3. Ensure all information is technically accurate and up-to-date
 4. Include clear "use_when" directives to guide LLM implementation
@@ -102,4 +102,4 @@ To contribute to this knowledge base:
 
 ## Contact
 
-[Include contact information here]
+daniel@netrunsystems.com
